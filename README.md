@@ -1,3 +1,3 @@
 # Signature-manuscrite
 
-![Texte alternative](Signature manuscrite.jpeg)
+![Texte alternative](Signature%20manuscrite.jpeg)
